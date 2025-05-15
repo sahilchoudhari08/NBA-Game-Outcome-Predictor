@@ -20,25 +20,33 @@ This project is an interactive web app that predicts the outcome of NBA games us
 
 ## Setup Instructions
 
-1. **Clone the repository**
+1. **Prerequisites**
+   - Python 3.9 (required for compatibility with dependencies)
+   - If you don't have Python 3.9, install it using:
+     ```bash
+     # On macOS with Homebrew
+     brew install python@3.9
+     ```
+
+2. **Clone the repository**
    ```bash
    git clone https://github.com/sahilchoudhari08/NBA-Game-Outcome-Predictor.git
    cd NBA-Game-Outcome-Predictor
    ```
-2. **Create and activate a virtual environment**
+3. **Create and activate a virtual environment**
    ```bash
-   python3 -m venv venv
+   python3.9 -m venv venv
    source venv/bin/activate
    ```
-3. **Install dependencies**
+4. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
-4. **Train the model** (required before first use)
+5. **Train the model** (required before first use)
    ```bash
    python train_model.py
    ```
-5. **Run the app**
+6. **Run the app**
    ```bash
    streamlit run app.py
    ```
