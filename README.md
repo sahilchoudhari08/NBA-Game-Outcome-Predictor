@@ -59,12 +59,4 @@ This project is an interactive web app that predicts the outcome of NBA games us
 └── README.md
 ```
 
-## Contributing
-Pull requests are welcome! If you have ideas for new features, bug fixes, or improvements, please open an issue or submit a PR.
-
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 **Disclaimer:** This app is for educational and informational purposes only. Predictions are based on historical data and statistical analysis, and should not be used as the sole basis for betting or decision-making. 
