@@ -68,3 +68,5 @@ This project is an interactive web app that predicts the outcome of NBA games us
 ```
 
 **Disclaimer:** This app is for educational and informational purposes only. Predictions are based on historical data and statistical analysis, and should not be used as the sole basis for betting or decision-making. 
+
+Created by Sahil Choudhari
